@@ -1,4 +1,4 @@
-# Osztv13e
+# 13e
 Mintafeladat
-## Gyakorló feladat Digit!
+## Gyakorló feladatok Digit!
 ## ESP32 projektek!
